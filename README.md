@@ -31,7 +31,7 @@ y listo! ya puedes acceder desde el puerto localhos:8080
 
 ## Wiki 📖
 
-Puedes encontrar mucho más de cómo utilizar este proyecto en la [Wiki](https://gabrielbustosweb.github.io/proyectos/chat%con%socket.io%y%nodejs.html)
+Puedes encontrar mucho más de cómo utilizar este proyecto en la [Wiki](https://gabrielbustosweb.github.io/proyectos/chat)
 
 ## Autores ✒️
 
