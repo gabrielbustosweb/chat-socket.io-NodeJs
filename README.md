@@ -1,10 +1,10 @@
 # Chat con NodeJS y Socket.io
 
-_Proyecto sencillo de configuracion para un chat basico_
+_Proyecto sencillo de configuracion para un chat basico usando sockets_
 
 ## Comenzando 🚀
 
-Esta es un servicio basico de un chat con Socket.io y NodeJS 
+Esta es un servicio basico de chat con Socket.io y NodeJS 
 
 ### Pre-requisitos 📋
 
@@ -31,9 +31,9 @@ y listo! ya puedes acceder desde el puerto localhos:8080
 
 ## Wiki 📖
 
-Puedes encontrar mucho más de cómo utilizar este proyecto en la [Wiki](https://gabrielbustosweb.github.io/proyectos/chat)
+Puedes encontrar mucho más sobre este proyecto en la [Wiki](https://gabrielbustosweb.github.io/proyectos/chat)
 
 ## Autores ✒️
 
-* **Gabriel Bustos** - *Trabajo Inicial* - [villanuevand](https://gabrielbustosweb.github.io)
+* **Gabriel Bustos** - *Trabajo Inicial* - [Gabriel Bustos](https://gabrielbustosweb.github.io)
 
