@@ -30,5 +30,7 @@ function addMessage(e){
 
 	socket.emit('add-message', message);
 
+	document.getElementById('text').value='';
+
 	return false;
 }
